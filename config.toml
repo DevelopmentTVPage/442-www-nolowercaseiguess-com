@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "widget embed test"
+baseURL = "https:\/\/www.nolowercaseiguess.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758397"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "nolowercaseiguess.com"
